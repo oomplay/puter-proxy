@@ -1,0 +1,47 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+package-lock.json
+
+# Local secrets
+admin_token.json
+keys.json
+
+# Local secrets
+admin_token.json
+keys.json
+
+# Local secrets
+admin_token.json
+keys.json
+
+# Local secrets
+admin_token.json
+keys.json
