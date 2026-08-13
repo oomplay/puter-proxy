@@ -66,7 +66,7 @@ You can request any model available on Puter by specifying its ID.
 ## Installation
 
 ```bash
-git clone <repo>
+git clone https://github.com/oomplay/puter-proxy.git
 cd puter-proxy
 pip install -r requirements.txt
 ```
